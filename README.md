@@ -43,6 +43,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Advanced & Specialized Platforms
 
+- **[LandscapioAI](https://www.landscapioai.com/)**
+  AI landscape design generator that turns yard photos into outdoor design concepts for gardens, patios, lighting, and hardscapes.
+
 **Other notable mentions**: DALL·E (via ChatGPT), Ideogram (strong text in images), Flux (via various hosts), Playground AI, and Bing Image Creator.
 
 ## Open-Source GitHub Projects
