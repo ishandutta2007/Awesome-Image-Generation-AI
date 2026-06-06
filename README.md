@@ -49,6 +49,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Comicory](https://www.comicory.com/)**
   AI comic generator that turns a story paragraph into a multi-panel comic strip with consistent characters across panels, powered by FLUX.1-Kontext image-to-image conditioning. 8 art styles (manga, western, superhero, watercolor, B&W, cartoon, pixel, ink) and per-panel regeneration.
 
+- **[Illustro](https://illustro.app/)**
+  AI illustration generator and editor for flat, line art, children's book, and 3D styles. Includes SVG recoloring, photo-to-illustration conversion, and illustration animation.
+
 **Other notable mentions**: DALL·E (via ChatGPT), Ideogram (strong text in images), Flux (via various hosts), Playground AI, and Bing Image Creator.
 
 ## Open-Source GitHub Projects
