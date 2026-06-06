@@ -23,36 +23,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Image Generation)
 
-- **[Midjourney](https://www.midjourney.com/)**  
-  Leading creative AI image generator known for artistic, high-aesthetic outputs. Operates primarily via Discord with powerful prompting, style references, and community features.
-
-- **[Adobe Firefly](https://firefly.adobe.com/)**  
-  Enterprise-grade generative AI integrated into Adobe tools. Strong commercial safety, Photoshop integration, and high-quality generative fill/expand features.
-
-- **[Leonardo.Ai](https://leonardo.ai/)**  
-  Feature-rich platform with excellent model training (fine-tunes), real-time canvas, motion, and consistent character generation.
-
-- **[Canva Magic Media](https://www.canva.com/)**  
-  Beginner-friendly AI image generator integrated directly into Canva for quick design workflows.
-
-- **[DeepAI](https://deepai.org/)**  
-  Simple and fast text-to-image generator with various artistic styles and effects.
-
-- **[NightCafe](https://nightcafe.studio/)**  
-  Popular community platform with multiple models (including SD, Flux), style transfers, and community challenges.
+| Tool | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Midjourney](https://www.midjourney.com/)** | Leading creative AI generator known for artistic, high-aesthetic outputs. Operates via Discord. | Starts at $10/mo | None |
+| **[Adobe Firefly](https://firefly.adobe.com/)** | Enterprise-grade AI integrated into Adobe tools. Strong commercial safety and Photoshop integration. | Starts at $9.99/mo | 25 Credits/mo |
+| **[Leonardo.Ai](https://leonardo.ai/)** | Feature-rich platform with excellent model training, real-time canvas, and motion. | Starts at $12/mo | 150 Credits/day |
+| **[Canva Magic Media](https://www.canva.com/)** | Beginner-friendly AI image generator integrated directly into Canva for quick design workflows. | Included in Pro ($12.99/mo) | 50 Lifetime Generations |
+| **[DeepAI](https://deepai.org/)** | Simple and fast text-to-image generator with various artistic styles and effects. | Pro at $9.99/mo | Limited daily access |
+| **[NightCafe](https://nightcafe.studio/)** | Popular community platform with multiple models, style transfers, and community challenges. | Starts at $5.99/mo | 5 Credits/day |
 
 ### Advanced & Specialized Platforms
 
-- **[LandscapioAI](https://www.landscapioai.com/)**
-  AI landscape design generator that turns yard photos into outdoor design concepts for gardens, patios, lighting, and hardscapes.
-
-- **[Comicory](https://www.comicory.com/)**
-  AI comic generator that turns a story paragraph into a multi-panel comic strip with consistent characters across panels, powered by FLUX.1-Kontext image-to-image conditioning. 8 art styles (manga, western, superhero, watercolor, B&W, cartoon, pixel, ink) and per-panel regeneration.
-
-- **[Illustro](https://illustro.app/)**
-  AI illustration generator and editor for flat, line art, children's book, and 3D styles. Includes SVG recoloring, photo-to-illustration conversion, and illustration animation.
-
-**Other notable mentions**: DALL·E (via ChatGPT), Ideogram (strong text in images), Flux (via various hosts), Playground AI, and Bing Image Creator.
+| Tool | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[LandscapioAI](https://www.landscapioai.com/)** | AI landscape design generator that turns yard photos into outdoor design concepts. | $4.99/week or $79/yr | 2 Designs/day |
+| **[Comicory](https://www.comicory.com/)** | AI comic generator that turns story paragraphs into multi-panel strips with consistent characters. | Pay-as-you-go ($2.99+) | 5 Credits (One-time) |
+| **[Illustro](https://illustro.app/)** | AI illustration generator and editor for flat, line art, and 3D styles. | Pay-as-you-go ($5+) | None |
+| **[DALL·E (via ChatGPT)](https://chatgpt.com/)** | OpenAI's flagship model integrated into ChatGPT. High prompt adherence and photorealism. | Plus at $20/mo | 2-3 Images/day |
+| **[Ideogram](https://ideogram.ai/)** | Known for superior text rendering in images and high-quality typography. | Starts at $8/mo | 10 Credits/week |
+| **[Flux.1 (via fal.ai)](https://fal.ai/models/fal-ai/flux/pro)** | State-of-the-art photorealistic model with excellent prompt following. | Pay-as-you-go (~$0.04/img) | Varies by host |
+| **[Playground AI](https://playground.com/)** | Powerful canvas-based editor with multiple models and commercial safety. | Starts at $15/mo | 10 Images / 3 hours |
+| **[Bing Image Creator](https://www.bing.com/images/create)** | Generous free provider using DALL-E 3, integrated with Microsoft Copilot. | Included in M365 | 15 Boosts/day (Unlimited slow) |
 
 ## Open-Source GitHub Projects
 
