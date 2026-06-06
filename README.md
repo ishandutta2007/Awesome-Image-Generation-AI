@@ -1,76 +1,90 @@
-# Awesome-Image-Generation-AI
-# Top AI Image Generation Tools Ecosystem
+# 🎨 Awesome-Image-Generation-AI
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Text-to-Image, Image-to-Image & Generative AI Art*  
-**Last updated: March 2026**
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/network)
+[![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **AI image generation tools**. These tools transform text prompts into high-quality images, support image-to-image editing, style transfer, upscaling, inpainting, and advanced controls like consistent characters, LoRAs, and ControlNet.
+> **The definitive curated list of AI Image Generation Tools, SaaS platforms, and Open-Source projects.**  
+> *Focused on Text-to-Image, Image-to-Image, Generative AI Art, and Local Stable Diffusion/Flux deployments.*
 
-**Examples** include Midjourney, Adobe Firefly, Leonardo.Ai, Canva Magic Media, DeepAI, and NightCafe (the category leaders). Tools listed here emphasize **high visual quality**, prompt adherence, artistic control, speed, and creative features for designers, artists, marketers, and creators.
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local execution (no monthly fees), full customization, fine-tuning, and complete data/privacy control — ideal for power users, developers, and teams wanting unlimited generations.
+**Last updated: March 2026** 📅
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+This repository tracks notable **SaaS platforms** and **open-source projects** building **AI image generation tools**. Whether you are looking for professional creative suites or local, self-hosted solutions, this list covers everything from prompt-to-image to advanced control techniques like LoRAs and ControlNet.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+**Keywords**: *AI Image Generator, Text to Image, Stable Diffusion, Flux.1, Midjourney Alternatives, Open Source AI Art, Generative AI Tools, Image-to-Image, AI Art Ecosystem.*
 
-## SaaS Products
+---
 
-### Core Platforms (AI Image Generation)
+## 🗺️ Table of Contents
+- [🚀 SaaS Products](#saas-products)
+  - [Core Platforms](#core-platforms-ai-image-generation)
+  - [Advanced & Specialized Platforms](#advanced--specialized-platforms)
+- [🛠️ Open-Source GitHub Projects](#open-source-github-projects)
+  - [Dedicated Projects](#dedicated-ai-image-generation-projects)
+  - [Additional Strong Options](#additional-strong-open-source-options)
+- [🤝 How to Contribute](#how-to-contribute)
+- [⚖️ Disclaimer](#disclaimer)
 
-| Tool | Description | Pricing | Free Tier Limit |
+---
+
+## 🚀 SaaS Products
+
+### Core Platforms (AI Image Generation) 🖼️
+
+| Tool | Description | Pricing 💰 | Free Tier Limit 🆓 |
 | :--- | :--- | :--- | :--- |
-| **[Midjourney](https://www.midjourney.com/)** | Leading creative AI generator known for artistic, high-aesthetic outputs. Operates via Discord. | Starts at $10/mo | None |
-| **[Adobe Firefly](https://firefly.adobe.com/)** | Enterprise-grade AI integrated into Adobe tools. Strong commercial safety and Photoshop integration. | Starts at $9.99/mo | 25 Credits/mo |
-| **[Leonardo.Ai](https://leonardo.ai/)** | Feature-rich platform with excellent model training, real-time canvas, and motion. | Starts at $12/mo | 150 Credits/day |
-| **[Canva Magic Media](https://www.canva.com/)** | Beginner-friendly AI image generator integrated directly into Canva for quick design workflows. | Included in Pro ($12.99/mo) | 50 Lifetime Generations |
-| **[DeepAI](https://deepai.org/)** | Simple and fast text-to-image generator with various artistic styles and effects. | Pro at $9.99/mo | Limited daily access |
-| **[NightCafe](https://nightcafe.studio/)** | Popular community platform with multiple models, style transfers, and community challenges. | Starts at $5.99/mo | 5 Credits/day |
+| **[Midjourney](https://www.midjourney.com/)** | 🏆 Leading creative AI generator known for artistic, high-aesthetic outputs. Operates via Discord. | Starts at $10/mo | None |
+| **[Adobe Firefly](https://firefly.adobe.com/)** | 🏢 Enterprise-grade AI integrated into Adobe tools. Strong commercial safety and Photoshop integration. | Starts at $9.99/mo | 25 Credits/mo |
+| **[Leonardo.Ai](https://leonardo.ai/)** | 🎨 Feature-rich platform with excellent model training, real-time canvas, and motion. | Starts at $12/mo | 150 Credits/day |
+| **[Canva Magic Media](https://www.canva.com/)** | 🪄 Beginner-friendly AI image generator integrated directly into Canva for quick design workflows. | Included in Pro ($12.99/mo) | 50 Lifetime Generations |
+| **[DeepAI](https://deepai.org/)** | ⚡ Simple and fast text-to-image generator with various artistic styles and effects. | Pro at $9.99/mo | Limited daily access |
+| **[NightCafe](https://nightcafe.studio/)** | 🤝 Popular community platform with multiple models, style transfers, and community challenges. | Starts at $5.99/mo | 5 Credits/day |
 
-### Advanced & Specialized Platforms
+### Advanced & Specialized Platforms 🧩
 
-| Tool | Description | Pricing | Free Tier Limit |
+| Tool | Description | Pricing 💰 | Free Tier Limit 🆓 |
 | :--- | :--- | :--- | :--- |
-| **[LandscapioAI](https://www.landscapioai.com/)** | AI landscape design generator that turns yard photos into outdoor design concepts. | $4.99/week or $79/yr | 2 Designs/day |
-| **[Comicory](https://www.comicory.com/)** | AI comic generator that turns story paragraphs into multi-panel strips with consistent characters. | Pay-as-you-go ($2.99+) | 5 Credits (One-time) |
-| **[Illustro](https://illustro.app/)** | AI illustration generator and editor for flat, line art, and 3D styles. | Pay-as-you-go ($5+) | None |
-| **[DALL·E (via ChatGPT)](https://chatgpt.com/)** | OpenAI's flagship model integrated into ChatGPT. High prompt adherence and photorealism. | Plus at $20/mo | 2-3 Images/day |
-| **[Ideogram](https://ideogram.ai/)** | Known for superior text rendering in images and high-quality typography. | Starts at $8/mo | 10 Credits/week |
-| **[Flux.1 (via fal.ai)](https://fal.ai/models/fal-ai/flux/pro)** | State-of-the-art photorealistic model with excellent prompt following. | Pay-as-you-go (~$0.04/img) | Varies by host |
-| **[Playground AI](https://playground.com/)** | Powerful canvas-based editor with multiple models and commercial safety. | Starts at $15/mo | 10 Images / 3 hours |
-| **[Bing Image Creator](https://www.bing.com/images/create)** | Generous free provider using DALL-E 3, integrated with Microsoft Copilot. | Included in M365 | 15 Boosts/day (Unlimited slow) |
+| **[LandscapioAI](https://www.landscapioai.com/)** | 🏡 AI landscape design generator that turns yard photos into outdoor design concepts. | $4.99/week or $79/yr | 2 Designs/day |
+| **[Comicory](https://www.comicory.com/)** | 🦸 AI comic generator that turns story paragraphs into multi-panel strips with consistent characters. | Pay-as-you-go ($2.99+) | 5 Credits (One-time) |
+| **[Illustro](https://illustro.app/)** | 🖌️ AI illustration generator and editor for flat, line art, and 3D styles. | Pay-as-you-go ($5+) | None |
+| **[DALL·E (via ChatGPT)](https://chatgpt.com/)** | 🤖 OpenAI's flagship model integrated into ChatGPT. High prompt adherence and photorealism. | Plus at $20/mo | 2-3 Images/day |
+| **[Ideogram](https://ideogram.ai/)** | 🔤 Known for superior text rendering in images and high-quality typography. | Starts at $8/mo | 10 Credits/week |
+| **[Flux.1 (via fal.ai)](https://fal.ai/models/fal-ai/flux/pro)** | 📸 State-of-the-art photorealistic model with excellent prompt following. | Pay-as-you-go (~$0.04/img) | Varies by host |
+| **[Playground AI](https://playground.com/)** | 🎭 Powerful canvas-based editor with multiple models and commercial safety. | Starts at $15/mo | 10 Images / 3 hours |
+| **[Bing Image Creator](https://www.bing.com/images/create)** | 🔎 Generous free provider using DALL-E 3, integrated with Microsoft Copilot. | Included in M365 | 15 Boosts/day (Unlimited slow) |
 
-## Open-Source GitHub Projects
+---
 
-### Dedicated AI Image Generation Projects
+## 🛠️ Open-Source GitHub Projects
 
-- **[Fooocus](https://github.com/lllyasviel/Fooocus)**  
-  Simplest and most popular local AI image generator. Midjourney-like experience with excellent prompt understanding, built on Stable Diffusion XL. Extremely user-friendly with minimal settings needed.
+### Dedicated AI Image Generation Projects 💻
 
-- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**  
-  The most feature-complete local web interface for Stable Diffusion. Supports vast extensions, ControlNet, LoRAs, inpainting, upscaling, and thousands of community models.
+- **[Fooocus](https://github.com/lllyasviel/Fooocus)** 🌟  
+  Simplest and most popular local AI image generator. Midjourney-like experience with excellent prompt understanding, built on Stable Diffusion XL.
 
-- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**  
-  Powerful node-based workflow editor for Stable Diffusion and Flux. Industry favorite for complex pipelines, batch processing, and advanced custom workflows.
+- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** 🔧  
+  The most feature-complete local web interface for Stable Diffusion. Supports vast extensions, ControlNet, LoRAs, and thousands of models.
 
-- **[InvokeAI](https://github.com/invoke-ai/InvokeAI)**  
-  Clean, user-friendly local installation with powerful canvas editor, unified canvas, and strong support for professional creative workflows.
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** ⛓️  
+  Powerful node-based workflow editor for Stable Diffusion and Flux. Industry favorite for complex pipelines and batch processing.
 
-- **[Stable Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** (and community forks)  
-  Core open models including SDXL, SD 3.5, and Flux.1 (Dev/Schnell/Pro variants) — the foundation for most local tools.
+- **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** 🎨  
+  Clean, user-friendly local installation with powerful canvas editor and strong support for professional creative workflows.
 
-- **[Diffusers (Hugging Face)](https://github.com/huggingface/diffusers)**  
-  Official PyTorch library for state-of-the-art diffusion models. Supports Flux, SDXL, SD3, and hundreds of community models with easy inference scripts.
+- **[Stable Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** 🏔️  
+  Core open models including SDXL, SD 3.5, and Flux.1 — the foundation for most local tools.
 
-- **[SwarmUI](https://github.com/mcmonkey4eva/SwarmUI)**  
-  Feature-rich interface that combines multiple backends (ComfyUI, Forge, etc.) with powerful queuing and management features.
+- **[Diffusers (Hugging Face)](https://github.com/huggingface/diffusers)** 🤗  
+  Official PyTorch library for state-of-the-art diffusion models. Supports Flux, SDXL, SD3, and more.
 
-### Additional Strong Open-Source Options
+- **[SwarmUI](https://github.com/mcmonkey4eva/SwarmUI)** 🐝  
+  Feature-rich interface that combines multiple backends (ComfyUI, Forge, etc.) with powerful queuing.
+
+### Additional Strong Open-Source Options ⚡
 
 - **[Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)** — Optimized and faster fork of A1111.
 - **[Draw Things](https://github.com/drawthingsapp/draw-things)** — Excellent Mac-native app for local generation.
@@ -79,18 +93,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **Automatic1111 extensions ecosystem** (ControlNet, Reactor, Ultimate SD Upscale, etc.).
 - Many Flux.1 Dev/Schnell implementations and fine-tunes optimized for consumer GPUs.
 
-**Frameworks for building custom tools**: Use **Hugging Face Diffusers** + **ComfyUI** nodes + **PyTorch** for building advanced pipelines. Combine with **Ollama** (for multimodal) or **LangChain** for text-to-image agentic workflows.
+---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
 4. Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+**Star the repo if you find it useful!** ⭐
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Generated images may be subject to model training data biases and licensing terms. Always check commercial usage rights for models and outputs.
@@ -113,4 +127,3 @@ Let's make AI image generation more accessible, private, and infinitely customiz
     </picture>
   </a>
 </div>
-
