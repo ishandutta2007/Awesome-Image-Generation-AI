@@ -55,6 +55,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | **[Ideogram](https://ideogram.ai/)** | 🔤 Known for superior text rendering in images and high-quality typography. | Starts at $8/mo | 10 Credits/week |
 | **[Flux.1 (via fal.ai)](https://fal.ai/models/fal-ai/flux/pro)** | 📸 State-of-the-art photorealistic model with excellent prompt following. | Pay-as-you-go (~$0.04/img) | Varies by host |
 | **[Playground AI](https://playground.com/)** | 🎭 Powerful canvas-based editor with multiple models and commercial safety. | Starts at $15/mo | 10 Images / 3 hours |
+| **[ClearCrowds](https://www.clearcrowds.com/)** | 🧹 AI photo cleanup and editing app for removing crowds, objects, clutter, glasses, and other distractions with presets or natural-language prompts. | Freemium | Guest trial available |
 | **[Bing Image Creator](https://www.bing.com/images/create)** | 🔎 Generous free provider using DALL-E 3, integrated with Microsoft Copilot. | Included in M365 | 15 Boosts/day (Unlimited slow) |
 
 ---
