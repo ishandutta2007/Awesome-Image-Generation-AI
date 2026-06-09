@@ -1,6 +1,6 @@
 # 🎨 Awesome-Image-Generation-AI
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/network)
 [![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/issues)
