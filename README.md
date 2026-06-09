@@ -1,13 +1,22 @@
 # 🎨 Awesome-Image-Generation-AI
 
+<div align="center">
+
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/network)
 [![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Image-Generation-AI.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Image-Generation-AI/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 > **The definitive curated list of AI Image Generation Tools, SaaS platforms, and Open-Source projects.**  
 > *Focused on Text-to-Image, Image-to-Image, Generative AI Art, and Local Stable Diffusion/Flux deployments.*
+
+</div>
 
 ---
 
