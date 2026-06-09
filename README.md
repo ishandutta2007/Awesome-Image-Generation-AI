@@ -57,6 +57,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | **[Playground AI](https://playground.com/)** | 🎭 Powerful canvas-based editor with multiple models and commercial safety. | Starts at $15/mo | 10 Images / 3 hours |
 | **[ClearCrowds](https://www.clearcrowds.com/)** | 🧹 AI photo cleanup and editing app for removing crowds, objects, clutter, glasses, and other distractions with presets or natural-language prompts. | Freemium | Guest trial available |
 | **[Bing Image Creator](https://www.bing.com/images/create)** | 🔎 Generous free provider using DALL-E 3, integrated with Microsoft Copilot. | Included in M365 | 15 Boosts/day (Unlimited slow) |
+| **[Seedream AI Studio](https://seedream4.video/)** | 🌱 Browser-based creative workspace exposing all four current Seedream models (4.0, 4.5, 5.0, 5.0 Lite) in one dropdown, with a documented 3:2:1:2 credit-cost ratio and one-click Kling 2.1 image-to-video animation (5–15 s). | Freemium ($0/$15/$45/mo) | 30 Credits/mo |
 
 ---
 
