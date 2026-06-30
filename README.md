@@ -75,33 +75,33 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### Dedicated AI Image Generation Projects 💻
 
-- **[Fooocus](https://github.com/lllyasviel/Fooocus)** 🌟  
-  Simplest and most popular local AI image generator. Midjourney-like experience with excellent prompt understanding, built on Stable Diffusion XL.
-
-- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** 🔧  
+- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** [![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) 🔧  
   The most feature-complete local web interface for Stable Diffusion. Supports vast extensions, ControlNet, LoRAs, and thousands of models.
 
-- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** ⛓️  
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) ⛓️  
   Powerful node-based workflow editor for Stable Diffusion and Flux. Industry favorite for complex pipelines and batch processing.
 
-- **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** 🎨  
-  Clean, user-friendly local installation with powerful canvas editor and strong support for professional creative workflows.
+- **[Fooocus](https://github.com/lllyasviel/Fooocus)** [![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social&color=white)](https://github.com/lllyasviel/Fooocus/stargazers) 🌟  
+  Simplest and most popular local AI image generator. Midjourney-like experience with excellent prompt understanding, built on Stable Diffusion XL.
 
-- **[Stable Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** 🏔️  
-  Core open models including SDXL, SD 3.5, and Flux.1 — the foundation for most local tools.
-
-- **[Diffusers (Hugging Face)](https://github.com/huggingface/diffusers)** 🤗  
+- **[Diffusers (Hugging Face)](https://github.com/huggingface/diffusers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers) 🤗  
   Official PyTorch library for state-of-the-art diffusion models. Supports Flux, SDXL, SD3, and more.
 
-- **[SwarmUI](https://github.com/mcmonkey4eva/SwarmUI)** 🐝  
+- **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** [![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social&color=white)](https://github.com/invoke-ai/InvokeAI/stargazers) 🎨  
+  Clean, user-friendly local installation with powerful canvas editor and strong support for professional creative workflows.
+
+- **[Stable Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** [![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers) 🏔️  
+  Core open models including SDXL, SD 3.5, and Flux.1 — the foundation for most local tools.
+
+- **[SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)** [![GitHub stars](https://img.shields.io/github/stars/mcmonkeyprojects/SwarmUI?style=social&color=white)](https://github.com/mcmonkeyprojects/SwarmUI/stargazers) 🐝  
   Feature-rich interface that combines multiple backends (ComfyUI, Forge, etc.) with powerful queuing.
 
 ### Additional Strong Open-Source Options ⚡
 
-- **[Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)** — Optimized and faster fork of A1111.
-- **[Draw Things](https://github.com/drawthingsapp/draw-things)** — Excellent Mac-native app for local generation.
-- **[Mochi Diffusion](https://github.com/goodpanda/mochi-diffusion)** — Another strong macOS app.
-- **Krita + Stable Diffusion Plugin** — Integration inside the popular open-source painting software.
+- **[Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)** [![GitHub stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=social&color=white)](https://github.com/lllyasviel/stable-diffusion-webui-forge/stargazers) — Optimized and faster fork of A1111.
+- **[Krita + Stable Diffusion Plugin](https://github.com/Acly/krita-ai-diffusion)** [![GitHub stars](https://img.shields.io/github/stars/Acly/krita-ai-diffusion?style=social&color=white)](https://github.com/Acly/krita-ai-diffusion/stargazers) — Integration inside the popular open-source painting software.
+- **[Mochi Diffusion](https://github.com/MochiDiffusion/MochiDiffusion)** [![GitHub stars](https://img.shields.io/github/stars/MochiDiffusion/MochiDiffusion?style=social&color=white)](https://github.com/MochiDiffusion/MochiDiffusion/stargazers) — Another strong macOS app.
+- **[Draw Things](https://github.com/drawthingsai/draw-things-community)** [![GitHub stars](https://img.shields.io/github/stars/drawthingsai/draw-things-community?style=social&color=white)](https://github.com/drawthingsai/draw-things-community/stargazers) — Excellent Mac-native app for local generation.
 - **Automatic1111 extensions ecosystem** (ControlNet, Reactor, Ultimate SD Upscale, etc.).
 - Many Flux.1 Dev/Schnell implementations and fine-tunes optimized for consumer GPUs.
 
