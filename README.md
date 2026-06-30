@@ -1,5 +1,9 @@
 # 🎨 Awesome-Image-Generation-AI
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Image Generation AI Banner" width="100%" />
+</p>
+
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
@@ -13,8 +17,8 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
 
-> **The definitive curated list of AI Image Generation Tools, SaaS platforms, and Open-Source projects.**  
-> *Focused on Text-to-Image, Image-to-Image, Generative AI Art, and Local Stable Diffusion/Flux deployments.*
+> 🚀 **The definitive curated list of AI Image Generation Tools, SaaS platforms, and Open-Source projects.** ✨  
+> *Focused on Text-to-Image, Image-to-Image, Generative AI Art, and Local Stable Diffusion/Flux deployments.* 💻
 
 </div>
 
@@ -22,7 +26,7 @@
 
 **Last updated: March 2026** 📅
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **AI image generation tools**. Whether you are looking for professional creative suites or local, self-hosted solutions, this list covers everything from prompt-to-image to advanced control techniques like LoRAs and ControlNet.
+This repository tracks notable **SaaS platforms** and **open-source projects** building **AI image generation tools**. 🎨 Whether you are looking for professional creative suites or local, self-hosted solutions, this list covers everything from prompt-to-image to advanced control techniques like LoRAs and ControlNet. 🚀
 
 **Keywords**: *AI Image Generator, Text to Image, Stable Diffusion, Flux.1, Midjourney Alternatives, Open Source AI Art, Generative AI Tools, Image-to-Image, AI Art Ecosystem.*
 
