@@ -110,6 +110,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - **[Krita + Stable Diffusion Plugin](https://github.com/Acly/krita-ai-diffusion)** [![GitHub stars](https://img.shields.io/github/stars/Acly/krita-ai-diffusion?style=social&color=white)](https://github.com/Acly/krita-ai-diffusion/stargazers) — Integration inside the popular open-source painting software.
 - **[Mochi Diffusion](https://github.com/MochiDiffusion/MochiDiffusion)** [![GitHub stars](https://img.shields.io/github/stars/MochiDiffusion/MochiDiffusion?style=social&color=white)](https://github.com/MochiDiffusion/MochiDiffusion/stargazers) — Another strong macOS app.
 - **[Draw Things](https://github.com/drawthingsai/draw-things-community)** [![GitHub stars](https://img.shields.io/github/stars/drawthingsai/draw-things-community?style=social&color=white)](https://github.com/drawthingsai/draw-things-community/stargazers) — Excellent Mac-native app for local generation.
+- **[RunAPI GPT Image 2 SDK](https://github.com/runapi-ai/gpt-image-2-sdk)** [![GitHub stars](https://img.shields.io/github/stars/runapi-ai/gpt-image-2-sdk?style=social&color=white)](https://github.com/runapi-ai/gpt-image-2-sdk/stargazers) — SDKs for building GPT Image 2 image-generation API workflows.
 - **Automatic1111 extensions ecosystem** (ControlNet, Reactor, Ultimate SD Upscale, etc.).
 - Many Flux.1 Dev/Schnell implementations and fine-tunes optimized for consumer GPUs.
 
