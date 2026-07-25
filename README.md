@@ -77,6 +77,8 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | **[Seedream AI Studio](https://seedream4.video/)** | 🌱 Browser-based creative workspace exposing all four current Seedream models (4.0, 4.5, 5.0, 5.0 Lite) in one dropdown, with a documented 3:2:1:2 credit-cost ratio and one-click Kling 2.1 image-to-video animation (5–15 s). | <$1M (Est.) | Freemium ($0/$15/$45/mo) | 30 Credits/mo |
 | **[cv.cm/v](https://cv.cm/v)** | 🎨 Browser-based AI studio with gpt-image-2 and Seedream image generation plus queue-free Seedance 2.0 image-to-video, a node-graph canvas, and a REST API. No signup required to try. | <$1M (Est.) | Freemium (pay-as-you-go credits) | 100 Credits (signup) |
 
+- **[STIL.AI](https://stil.gracestack.se)** | 👗 AI-powered text-to-fashion design. Describe garments → AI generates designs. Free [AI Outfit Generator](https://stil.gracestack.se/outfit). | <$1M | Free + Premium | ✅ Free tier
+
 ---
 
 ## 🛠️ Open-Source GitHub Projects
