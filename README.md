@@ -67,6 +67,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | :--- | :--- | :--- | :--- | :--- |
 | **[Bing Image Creator](https://www.bing.com/images/create)** | 🔎 Generous free provider using DALL-E 3, integrated with Microsoft Copilot. | ~$3.2T (Microsoft) | Included in M365 | 15 Boosts/day (Unlimited slow) |
 | **[DALL·E (via ChatGPT)](https://chatgpt.com/)** | 🤖 OpenAI's flagship model integrated into ChatGPT. High prompt adherence and photorealism. | ~$157B (OpenAI) | Plus at $20/mo | 2-3 Images/day |
+| **[GPT Image 2](https://gptimage2.asia/)** | 🖼️ Browser-based AI image generator and editor for marketing, ecommerce, social media, and branded content. | <$1M (Est.) | Freemium | Free credits/trial available |
 | **[Playground AI](https://playground.com/)** | 🎭 Powerful canvas-based editor with multiple models and commercial safety. | ~$42B (Canva subsidiary) | Starts at $15/mo | 10 Images / 3 hours |
 | **[Ideogram](https://ideogram.ai/)** | 🔤 Known for superior text rendering in images and high-quality typography. | ~$200M (Est.) | Starts at $8/mo | 10 Credits/week |
 | **[Flux.1 (via fal.ai)](https://fal.ai/models/fal-ai/flux/pro)** | 📸 State-of-the-art photorealistic model with excellent prompt following. | ~$150M (Creator BFL) | Pay-as-you-go (~$0.04/img) | Varies by host |
