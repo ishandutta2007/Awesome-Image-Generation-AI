@@ -65,6 +65,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 | Tool | Description | Est. Company Size 📈 | Pricing 💰 | Free Tier Limit 🆓 |
 | :--- | :--- | :--- | :--- | :--- |
+| **[Raphael AI](https://raphael.app)** | 🎨 AI image and design studio — generate, edit, and iterate visuals in the browser. | Early-stage startup | Freemium | Free tier |
 | **[Bing Image Creator](https://www.bing.com/images/create)** | 🔎 Generous free provider using DALL-E 3, integrated with Microsoft Copilot. | ~$3.2T (Microsoft) | Included in M365 | 15 Boosts/day (Unlimited slow) |
 | **[DALL·E (via ChatGPT)](https://chatgpt.com/)** | 🤖 OpenAI's flagship model integrated into ChatGPT. High prompt adherence and photorealism. | ~$157B (OpenAI) | Plus at $20/mo | 2-3 Images/day |
 | **[Playground AI](https://playground.com/)** | 🎭 Powerful canvas-based editor with multiple models and commercial safety. | ~$42B (Canva subsidiary) | Starts at $15/mo | 10 Images / 3 hours |
