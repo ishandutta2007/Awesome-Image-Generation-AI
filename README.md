@@ -60,6 +60,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | **[Midjourney](https://www.midjourney.com/)** | 🏆 Leading creative AI generator known for artistic, high-aesthetic outputs. Operates via Discord. | ~$10B (Est.) | Starts at $10/mo | None |
 | **[DeepAI](https://deepai.org/)** | ⚡ Simple and fast text-to-image generator with various artistic styles and effects. | ~$30M (Est.) | Pro at $9.99/mo | Limited daily access |
 | **[NightCafe](https://nightcafe.studio/)** | 🤝 Popular community platform with multiple models, style transfers, and community challenges. | ~$6M (Est.) | Starts at $5.99/mo | 5 Credits/day |
+| **[Seedream 5.5](https://seedream5-5.net/)** | ✏️ Text-to-image generator and editor: edit photos with plain-language instructions, keep characters consistent across a series, and render legible in-image text. (SaaS) | Indie (Est.) | Paid plans available | Free starter credits |
 
 ### Advanced & Specialized Platforms 🧩
 
