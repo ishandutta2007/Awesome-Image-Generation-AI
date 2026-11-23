@@ -80,6 +80,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | **[STIL.AI](https://stil.gracestack.se)** | 👗 AI-powered text-to-fashion design. Describe garments → AI generates designs. Free [AI Outfit Generator](https://stil.gracestack.se/outfit). | <$1M | Free + Premium | ✅ Free tier
 | **[AI Wallpaper](https://aiwallpaper.me)** | 🎞️ AI-powered Live Wallpaper generator on the homepage; turns text prompts or uploaded images into static wallpapers or short MP4/WebM motion loops. | Not disclosed | Freemium | Initial static credits |
 | **[Eimu](https://eimu.dev)** | ✨ Online GPT Image 2 & Nano Banana Pro image generator - sign in, type a prompt, download. No relay setup or API key required; offers OpenAI-compatible generation API and MCP integration. | Not disclosed | Free + from ¥9.9 | Free tier |
+| **[ArchitecturesAI](https://architecturesai.com)** | 🏛️ AI architecture renderer that turns prompts, sketches, floor plans or photos into photorealistic interior, exterior and landscape renders, plus virtual staging. | Not disclosed | Weekly plan from $6.99/week | 1 free render (one time, sign-in required) |
 
 ---
 
